@@ -20,6 +20,7 @@ about:
       href: https://github.com/JadedTendencies
     - icon: file-earmark-text
       text: CV
+      href: CV_2024new.pdf
 ---
 
 ::: {#hero-heading}
