@@ -1,0 +1,13 @@
+---
+title: "CV"
+fontsize: 1.39em  
+include-in-header:
+  text: |
+    <link rel="shortcut icon" href="trans_icon.png" />
+    <link rel="icon" type="image/x-icon" href="docu_favi.jpg">
+
+---
+
+```{=html}
+<embed src="cv_2024new.pdf" width="800px" height="2100px" />
+```
