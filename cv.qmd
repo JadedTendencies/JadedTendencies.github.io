@@ -8,6 +8,8 @@ include-in-header:
 
 ---
 
-```{=html}
-<embed src="cv.pdf" width="800px" height="2100px" />
-```
+<div>
+
+<embed src="cv.pdf" width="800px" height="2100px" type="application/pdf">
+
+</div>
