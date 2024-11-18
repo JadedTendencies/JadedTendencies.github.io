@@ -1,0 +1,27 @@
+---
+title: "Projects"
+fontsize: 1.39em  
+include-in-header:
+  text: |
+    <link rel="shortcut icon" href="trans_icon.png" />
+    <link rel="icon" type="image/x-icon" href="docu_favi.jpg">
+
+---
+
+<div>
+(In Progress) O’Brien, J., Iyer, A., Tran, D., Kennedy, A. “Mental Health Outcomes of Internally Displaced Sexual  Minority Men in Ukraine”
+
+(2024\) <a href="breast-detection.html">"Breast Mass Biopsy Classification"</a>
+
+(2024\) "Vocal Deepfake Detection". <a href="https://www.soundethics.org/">Sound Ethics</a>
+
+
+## Presentations
+
+O’Brien, J., Iyer, A., Tran, D., Kennedy, A. (2024, August). “Mental Health Outcomes of Internally Displaced Sexual Minority Men in Ukraine”. ISI-BUDS Closing Symposium.
+
+O’Brien, J., Iyer, A., Tran, D., Kennedy, A. (2024, November). “Mental Health Outcomes of Internally Displaced Sexual Minority Men in Ukraine”. eUSR Video Presentations.
+
+
+</div>
+

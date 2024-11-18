@@ -1,0 +1,36 @@
+---
+title: "Jade O'Brien"
+fontsize: 1.39em  
+include-in-header:
+  text: |
+    <link rel="shortcut icon" href="trans_icon.png" />
+    <link rel="icon" type="image/x-icon" href="docu_favi.jpg">
+about:
+  id: hero-heading
+  template: trestles
+  image: profille.jpg
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:jadeobrien@ucsb.edu
+    - icon: github
+      text: Github
+      href: https://github.com/JadedTendencies
+    - icon: file-earmark-text
+      text: CV
+---
+
+::: {#hero-heading}
+<div>
+
+# About Me
+
+I am currently a fourth year math and statistics student at UCSB and I'm in the proccess of applying to statistics and biostatistics PhD programs. 
+
+My research interests include causal inference, machine learning, biostatistics, and statistical genomics. I am particularly interested in projects that center the experiences and well-being of the LGBTQ+ community.
+
+</div>
+:::
+
