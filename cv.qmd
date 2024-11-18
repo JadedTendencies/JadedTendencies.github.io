@@ -9,5 +9,5 @@ include-in-header:
 ---
 
 ```{=html}
-<embed src="cv_2024new.pdf" width="800px" height="2100px" />
+<embed src="cv.pdf" width="800px" height="2100px" />
 ```
