@@ -9,7 +9,7 @@ include-in-header:
 ---
 
 <div>
-(In Progress) O’Brien, J., Iyer, A., Tran, D., Kennedy, A. “Mental Health Outcomes of Internally Displaced Sexual  Minority Men in Ukraine”
+(2024\) <a href="ISI-BUDS_Project_Report_Draft.pdf"> O’Brien, J., Iyer, A., Tran, D., Kennedy, A. “Mental Health Outcomes of Internally Displaced Sexual Minority Men in Ukraine” </a>
 
 (2024\) <a href="breast-detection.html">"Breast Mass Biopsy Classification"</a>
 
