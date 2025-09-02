@@ -9,19 +9,21 @@ include-in-header:
 ---
 
 <div>
-(2024\) <a href="ISI-BUDS_Project_Report_Draft.pdf"> O’Brien, J., Iyer, A., Tran, D., Kennedy, A. “Mental Health Outcomes of Internally Displaced Sexual Minority Men in Ukraine” </a>
+(2025\) Li I., <b> O'Brien J. </b>, Pan D., Bao L., Vasquez C., McPhilips E. "Validation of Oceanographic Data Products and Investigation of Ocean Acidification and Its Biological Impacts"
+
+(2024\) <b> O’Brien J. </b>, Iyer A., Tran D., Kennedy A. <a href="ISI-BUDS_Project_Report_Draft.pdf"> “Mental Health Outcomes of Internally Displaced Sexual Minority Men in Ukraine” </a>
 
 (2024\) <a href="breast-detection.html">"Breast Mass Biopsy Classification"</a>
 
 (2024\) "Vocal Deepfake Detection". <a href="https://www.soundethics.org/">Sound Ethics</a>
 
-(2025\) "
 ## Presentations
 
-O’Brien, J., Iyer, A., Tran, D., Kennedy, A. (2024, August). “Mental Health Outcomes of Internally Displaced Sexual Minority Men in Ukraine”. ISI-BUDS Closing Symposium.
+Li I., <b> O'Brien J. </b>, Pan D., Bao L., Vasquez C., McPhilips E. (2025, June). <a href="CalCOFI poster.png">"Validation of Oceanographic Data Products and Investigation of Ocean Acidification and Its Biological Impacts"</a>. UCSB Data Science Capstone Poster Session.
 
-O’Brien, J., Iyer, A., Tran, D., Kennedy, A. (2024, November). “Mental Health Outcomes of Internally Displaced Sexual Minority Men in Ukraine”. eUSR Video Presentations.
+<b> O’Brien J. </b>, Iyer A., Tran D., Kennedy A. (2024, August). “Mental Health Outcomes of Internally Displaced Sexual Minority Men in Ukraine”. ISI-BUDS Closing Symposium.
 
+<b> O’Brien J. </b>, Iyer A., Tran D., Kennedy A. (2024, November). “Mental Health Outcomes of Internally Displaced Sexual Minority Men in Ukraine”. eUSR Video Presentations.
 
 </div>
 

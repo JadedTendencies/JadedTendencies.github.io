@@ -14,10 +14,13 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:jadeobrien@ucsb.edu
+      href: mailto:jademo@uci.edu
     - icon: github
       text: Github
       href: https://github.com/JadedTendencies
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jade-o-brien-a1138225b/
 ---
 
 ::: {#hero-heading}
@@ -25,7 +28,7 @@ about:
 
 # About Me
 
-I am currently a fourth year math and statistics student at UCSB and I'm in the proccess of applying to statistics and biostatistics PhD programs. 
+I am a 1st year statistics PhD student at UCI. 
 
 My research interests include causal inference, machine learning, biostatistics, and statistical genomics. I am particularly interested in projects that center the experiences and well-being of the LGBTQ+ community.
 
