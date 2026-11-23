@@ -8,7 +8,7 @@ include-in-header:
 about:
   id: hero-heading
   template: trestles
-  image: profille.jpg
+  image: profile.jpg
   image-shape: round
   image-width: 15em
   links:
@@ -28,9 +28,9 @@ about:
 
 # About Me
 
-I am a 1st year statistics PhD student at UCI. 
+I am a 2nd year statistics PhD student at UCI. 
 
-My research interests include causal inference, machine learning, biostatistics, and statistical genomics. I am particularly interested in projects that center the experiences and well-being of the LGBTQ+ community.
+My research interests include stochastic processes, infectious disease forecasting, phylodynamics, and statistical modeling of adaptive sampling designs. I am particularly interested in projects that center the experiences and well-being of the marginalized and under-served communities.
 
 </div>
 :::
